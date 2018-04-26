@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_location_found"
+        android:title="@string/privacy"/>
+    <item
+        android:id="@+id/menu_overflow"
+        android:orderInCategory="11111"
+        android:title="@string/Contactus" />
+</menu>

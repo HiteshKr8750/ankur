@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">save My wifi</string>
+    <string name="WifiAHM">Save My Wifi</string>
+    <string name="CurrentWifi">Current Wifi</string>
+    <string name="currentIpAddress">192.168.0.14</string>
+    <string name="DLink">D-Link_DIR-816 Connected</string>
+    <string name="macAddress">B0:E2:35:C6:6D:84</string>
+    <string name="foxItSecurity">FoxIT Security</string>
+    <string name="ipAddress">192.168.10.12</string>
+    <string name="compnyName">Apple, Inc;</string>
+    <string name="about">About</string>
+    <string name="privacy">Privacy</string>
+    <string name="Contactus">Contact US</string>
+    <string name="ipadr">IP Address</string>
+    <string name="dns">192.168.0.1</string>
+    <string name="dns1">DNS 1 :</string>
+    <string name="dns2">DNS 2 :</string>
+    <string name="dns2_value">0.0.0.0</string>
+    <string name="gatway">Gateway :</string>
+    <string name="gtway">192.168.0.1</string>
+    <string name="netmask">Net Mask</string>
+    <string name="mask">255.255.255.0</string>
+    <string name="ltime">0 Day, 2 Hour</string>
+    <string name="leasetime">Lease Time</string>
+    <string name="bssid">BSSID</string>
+    <string name="content">Save My Wifi</string>
+    <string name="number_of_connected">20</string>
+    <string name="unknown_mac_address">unknown mac</string>
+    <string name="unknown_vendor">unknown vendor</string>
+</resources>

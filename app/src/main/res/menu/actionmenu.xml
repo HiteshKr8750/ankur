@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"/>
+    <!-- Settings, should always be in the overflow -->
+
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="11111"
+        android:title="@string/Contactus" />
+
+</menu>
